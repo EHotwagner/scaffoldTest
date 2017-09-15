@@ -1,3 +1,3 @@
 # scaffoldTest
-just testing project scaffold and gits vscode integration
-halted due to: https://github.com/fsprojects/ProjectScaffold/issues/311
+Just testing project scaffold and gits vscode integration.
+Halted due to: https://github.com/fsprojects/ProjectScaffold/issues/311
